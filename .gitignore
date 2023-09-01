@@ -1,2 +1,5 @@
 .env
 images/*
+.venv/*
+code/data/*.csv
+.vscode/*
