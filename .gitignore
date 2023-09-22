@@ -4,3 +4,4 @@ images/*
 code/data/*.csv
 .vscode/*
 /LP3 SUBMISSION LINKS - SOLOMON NYAMSON.docx
+code/.ipynb_checkpoints*/*
